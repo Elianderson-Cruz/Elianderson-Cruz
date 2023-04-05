@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div> 
-  <img align ="right" alt = "Eli" src ="https://discord.com/channels/1093012823694643281/1093012824399298633/1093014812155457596">
-
+<div>
+<img align = "left" height ="150em" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU3NzFlNWM4YWI1NzBhYmFjMmMwOTVlZTVjMWZmMWFmY2U0ZmI4OSZjdD1n/peejAu3BFzm5WfpIuc/giphy.gif">
 </div>
