@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div> 
-  <img align ="right" alt = "Eli" src ="![giphy](https://user-images.githubusercontent.com/72630401/229976964-291a5f92-43c3-46f4-a98b-bf30fd7a29eb.gif)">
+  <img align ="right" alt = "Eli" src ="https://discord.com/channels/1093012823694643281/1093012824399298633/1093014812155457596">
 
 </div>
