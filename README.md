@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div> 
+  <img align ="right" alt = "Eli" src ="![giphy](https://user-images.githubusercontent.com/72630401/229976964-291a5f92-43c3-46f4-a98b-bf30fd7a29eb.gif)">
+
+</div>
