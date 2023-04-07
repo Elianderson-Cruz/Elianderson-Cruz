@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elianderson-cruz&label=Profile%20views&color=0e75b6&style=flat" alt="elianderson-cruz" /> </p>
 
-- 🌱 Estou aprendendo **Java and C++**
+- 🌱 Estou aprendendo **Java e C++**
 
 - 📫 Como entrar em contato comigo: **elifernandes321@hotmail.com**
 
